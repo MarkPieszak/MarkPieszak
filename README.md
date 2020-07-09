@@ -1,6 +1,4 @@
-# Hi there - I'm Mark Pieszak 👋
-
-### ⚡️ [Trilon](https://trilon.io) Co-Founder
+# ⚡️ [Trilon](https://trilon.io) Co-Founder
 
 At [Trilon](https://trilon.io), our goal is to help elevate teams - giving them the push they need to truly succeed in today's ever-changing tech world.
 
