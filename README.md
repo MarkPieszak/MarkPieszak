@@ -1,4 +1,18 @@
-### Hi there 👋
+### Hi there - I'm Mark Pieszak 👋
+
+⚡️ [Trilon](https://trilon.io) Co-Founder
+
+[![](https://media-exp1.licdn.com/dms/image/C4E1BAQGzgKnbOWEL9Q/company-background_10000/0?e=1594400400&v=beta&t=bZ8AN4QWZxu9B5cvGhmr4pkm564APusuOlRLwTfgJV4)](https://trilon.io)
+
+🐈 [NestJS](https://nestjs.com) Core Team
+
+🔺 [Angular](https://github.com/angular) Universal Team
+
+🛠️ Architect, Speaker, Consultant, Software Engineer
+
+# Find me online!
+
+- [Twitter](https://twitter.com/MarkPieszak)
 
 <!--
 **MarkPieszak/MarkPieszak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
