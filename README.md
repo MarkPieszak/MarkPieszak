@@ -1,20 +1,20 @@
-# ⚡️ [Trilon](https://trilon.io) Co-Founder
+# ⚡️ <a href="https://trilon.io" target="_blank">Trilon</a> Co-Founder
 
-At [Trilon](https://trilon.io), our goal is to help elevate teams - giving them the push they need to truly succeed in today's ever-changing tech world.
+At <a href="https://trilon.io" target="_blank">Trilon</a>, our goal is to help elevate teams - giving them the push they need to truly succeed in today's ever-changing tech world.
 
 > Consulting | Development | Workshops | Open-source
 
-[![](https://media-exp1.licdn.com/dms/image/C4E1BAQGzgKnbOWEL9Q/company-background_10000/0?e=1594400400&v=beta&t=bZ8AN4QWZxu9B5cvGhmr4pkm564APusuOlRLwTfgJV4)](https://trilon.io)
+<a href="https://trilon.io" target="_blank">![](https://media-exp1.licdn.com/dms/image/C4E1BAQGzgKnbOWEL9Q/company-background_10000/0?e=1594400400&v=beta&t=bZ8AN4QWZxu9B5cvGhmr4pkm564APusuOlRLwTfgJV4)]</a>
 
-### 🐈 [NestJS](https://nestjs.com) Core Team
+### 🐈 <a href="https://nestjs.com" target="_blank">NestJS</a> Core Team
 
-### 🔺 [Angular](https://github.com/angular) Universal Team
+### 🔺 <a href="https://github.com/angular" target="_blank">Angular</a> Universal Team
 
 🛠️ Architect, Speaker, Consultant, Software Engineer
 
 ### Find me online!
 
-- [Twitter](https://twitter.com/MarkPieszak)
+- <a href="https://twitter.com/MarkPieszak" target="_blank">Twitter</a>
 
 <!--
 **MarkPieszak/MarkPieszak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
