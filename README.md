@@ -2,6 +2,10 @@
 
 ### ⚡️ [Trilon](https://trilon.io) Co-Founder
 
+At [Trilon](https://trilon.io), our goal is to help elevate teams - giving them the push they need to truly succeed in today's ever-changing tech world.
+
+> Consulting | Development | Workshops | Open-source
+
 [![](https://media-exp1.licdn.com/dms/image/C4E1BAQGzgKnbOWEL9Q/company-background_10000/0?e=1594400400&v=beta&t=bZ8AN4QWZxu9B5cvGhmr4pkm564APusuOlRLwTfgJV4)](https://trilon.io)
 
 ### 🐈 [NestJS](https://nestjs.com) Core Team
