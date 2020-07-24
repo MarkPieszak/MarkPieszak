@@ -4,7 +4,7 @@ At <a href="https://trilon.io" target="_blank">Trilon</a>, our goal is to help e
 
 > Consulting | Development | Workshops | Open-source
 
-<a href="https://trilon.io" target="_blank">![](https://media-exp1.licdn.com/dms/image/C4E1BAQGzgKnbOWEL9Q/company-background_10000/0?e=1594400400&v=beta&t=bZ8AN4QWZxu9B5cvGhmr4pkm564APusuOlRLwTfgJV4)</a>
+<a href="https://trilon.io" target="_blank">![](https://trilon.io/meta/og-image.png)</a>
 
 ### 🐈 <a href="https://nestjs.com" target="_blank">NestJS</a> Core Team
 
