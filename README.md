@@ -17,7 +17,7 @@ At <a href="https://trilon.io" target="_blank">Trilon</a>, our goal is to help e
 
 ### 🔺 <a href="https://github.com/angular" target="_blank">Angular</a> Universal Team
 
-🛠️ Architect, Speaker, Consultant, Software Engineer
+---
 
 ### Find me online!
 
