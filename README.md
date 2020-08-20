@@ -21,7 +21,10 @@ At <a href="https://trilon.io" target="_blank">Trilon</a>, our goal is to help e
 
 ### Find me online!
 
-- <a href="https://twitter.com/MarkPieszak" target="_blank">Twitter</a>
+- <a href="https://twitter.com/MarkPieszak" target="_blank">Twitter @MarkPieszak</a>
+
+- <a href="https://www.linkedin.com/in/mark-pieszak/" target="_blank">LinkedIn</a>
+
 
 <!--
 **MarkPieszak/MarkPieszak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
