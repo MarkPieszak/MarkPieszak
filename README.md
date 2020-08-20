@@ -9,6 +9,8 @@ At <a href="https://trilon.io" target="_blank">Trilon</a>, our goal is to help e
 
 ### 🐈 <a href="https://nestjs.com" target="_blank">NestJS</a> Core Team
 
+[NestJS Fundamentals Course is now live!](https://courses.nestjs.com/?gh-mp)
+
 ### 🔺 <a href="https://github.com/angular" target="_blank">Angular</a> Universal Team
 
 🛠️ Architect, Speaker, Consultant, Software Engineer
