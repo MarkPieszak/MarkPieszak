@@ -11,7 +11,12 @@ At <a href="https://trilon.io" target="_blank">Trilon</a>, our goal is to help e
 
 ### 🐈 <a href="https://nestjs.com" target="_blank">NestJS</a> Core Team
 
-[NestJS Fundamentals Course is now live!](https://courses.nestjs.com/?gh-mp)
+-- OFFICIAL NestJS Courses Now Live! --
+
+- **[NestJS Fundamentals Course is now live!](https://courses.nestjs.com/?gh-mp)**
+
+- [NestJS GraphQL (Bundle) - Code-first & Schema-first approaches](https://courses.nestjs.com/#graphql-bundle)
+- [NestJS Authentication & Authorization (PRE-ORDER)](https://courses.nestjs.com/#authentication)
 
 ---
 
